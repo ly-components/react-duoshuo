@@ -2,7 +2,7 @@
 
 一个展示Duoshuo评论的React组件
 
-[DEMO](http://lingyucoder.github.io/react-as-duoshuo/demo/demo.html)
+[DEMO](http://lingyucoder.github.io/react-duoshuo/demo/demo.html)
 
 ## Install
 
