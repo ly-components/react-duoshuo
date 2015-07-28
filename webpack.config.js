@@ -6,9 +6,6 @@ module.exports = {
       'webpack-dev-server/client?http://localhost:3000',
       'webpack/hot/only-dev-server',
       './demo/demo'
-    ],
-    dist: [
-      './src/index.js'
     ]
   },
   output: {
